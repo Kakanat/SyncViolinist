@@ -2,19 +2,19 @@
 
   <h1 align="center">SyncViolinist: Music-Oriented Violin Motion Generation Based on Bowing and Fingering</h1>
   <p align="center">
-    <a href="https://"><strong>Hiroki Nishizawa</strong></a>
+    <a href="https://"><strong>Hiroki Nishizawa*</strong></a>
     ·
-    <a href="https://sites.google.com/view/keitarotanaka/"><strong>Keitaro Tanaka</strong></a>
+    <a href="https://sites.google.com/view/keitarotanaka/"><strong>Keitaro Tanaka*</strong></a>
     ·
-    <a href="http://"><strong>Asuka Hirata</strong></a>
+    <a href="http://"><strong>Asuka Hirata*</strong></a>
     ·
-    <a href="https://sites.google.com/site/yamaguchishugo/"><strong>Shugo Yamaguchi</strong></a>
-    ·
+    <a href="https://sites.google.com/site/yamaguchishugo/"><strong>Shugo Yamaguchi</strong></a><br>
     <a href="http://qfeng.me"><strong>Qi Feng</strong></a>
     ·
     <a href="https://gttm.jp/hamanaka/"><strong>Masatoshi Hamanaka</strong></a>
     ·
-    <a href="https://morishima-lab.jp/members?lang=en"><strong>Shigeo Morishima</strong></a>
+    <a href="https://morishima-lab.jp/members?lang=en"><strong>Shigeo Morishima</strong></a><br>
+    (* - Equal contribution)
   </p> 
   <!-- Upload the teaser image to the /images for it show.Update authors' homepages if necessary. -->
 
