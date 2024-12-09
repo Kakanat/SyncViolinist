@@ -128,8 +128,9 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 ## Examples
 
 After installing the dependencies and downloading the data and the models, you should be able to run the following examples:
-                                            
-bash evaluation.sh
+```                                     
+    bash evaluation.sh
+```
 
 
 ## Citation
