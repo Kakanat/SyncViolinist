@@ -85,7 +85,7 @@ To install the dependencies please follow the next steps:
 
 In order to run SyncViolinst, download the dataset and create a `data/` directory and follow the steps below:
 
-#### SyncViolinst Dataset
+#### SyncViolinst Dataset and models
 
 - Fill in the consent form from [here](https://).
 - Download the main dataset from [here](https://). After decompressing, it will include ...
@@ -94,10 +94,14 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 ```bash
     SyncViolinst
     ├── data
-    │   ├── xxx
-    │   │      
-    .
-    .
+    │   ├── aud
+    │   ├── joint_aligned
+    │   ├── keyps_norm_hiroki_ver_6ch
+    │   ├── mfcc
+    │   ├── pp_one_hot
+    │   ├── skl_hiroki_ver
+    │   └── wav_normalized
+
 ```
 
 #### Pre-trained Checkpoints
@@ -105,8 +109,19 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 - Place the pre-trained models in `SyncViolinst/models` as follows:
 ```bash
     models
-    ├── xxx.ckpt
-    └── yyy.pth
+    ├── A2BD
+        ├── best.pth
+        └── config.yaml
+    ├── hiroki
+        ├──
+        ...
+        └──
+    ├── TGM2B
+        ├── best.pth
+        └── config.yaml
+    └── TVCG
+        ├── best.pth
+        └── config.yaml
 ```
 
 
