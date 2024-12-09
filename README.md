@@ -37,7 +37,7 @@
 [SyncViolinist](https://github.com/Kakanat/SyncViolinist) is a multi-stage end-to-end framework that generates synchronized violin performance motion solely from audio input. For more details please refer to the [Paper](https://arxiv.org/abs/).
 
 For more details check out the YouTube video below.
-[![Video](images/video_teaser_play.png)](https://www.youtube.com/watch?v=)
+[![Video](images/video_teaser_play.png)](https://youtu.be/bAbtVLBa2BQ)
 <!-- Upload the youtube link and the thumbnail image to the /images for it show. -->
 
 
