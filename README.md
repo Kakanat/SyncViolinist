@@ -131,7 +131,7 @@ After installing the dependencies and downloading the data and the models, you s
 ```                                     
     bash evaluation.sh
 ```
-
+The results are saved under "./results/{model name}/"
 
 ## Citation
 
