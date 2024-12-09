@@ -129,10 +129,7 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 
 After installing the dependencies and downloading the data and the models, you should be able to run the following examples:
                                             
-    ```Shell
-    python run.py 
-    ```
-    The result will be saved in `SyncViolinst/save`.
+bash evaluation.sh
 
 
 ## Citation
