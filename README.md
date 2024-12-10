@@ -123,7 +123,12 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
         ├── best.pth
         └── config.yaml
 ```
-
+## Environment
+We use the docker container. Please use the Dockerfile to set the implement environment.
+```
+docker build -t {image name} .
+docker run -it --gpus [GPU number] -v $(pwd):/workstation -p 8000:8000 --name {container name} {image name}
+```
 
 ## Examples
 
