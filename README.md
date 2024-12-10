@@ -151,6 +151,6 @@ This research is supported by JSPS KAKENHI No. 21H05054, 24H00742, and 24H00748.
 
 ## Contact
 
-This repository is maintained by [Hiroki Nishizawa](https://), [Keitaro Tanaka](https://sites.google.com/view/keitarotanaka/) and [Qi Feng](https://qfeng.me).
+This repository is maintained by [Hiroki Nishizawa](https://), [Keitaro Tanaka](https://sites.google.com/view/keitarotanaka/), and [Qi Feng](https://qfeng.me).
 
 For questions, please contact [phys.keitaro1227@ruri.waseda.jp](mailto:phys.keitaro1227@ruri.waseda.jp).
