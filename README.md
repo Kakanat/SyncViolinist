@@ -58,15 +58,6 @@ For more details check out the YouTube video below.
 
 This repository includes the code base for the SyncViolinst and captured dataset.
 
-[](# Please populate the following section after cleaning up the codebase. Feng -> Nishizawa).
-
-## Requirements
-
-This package has been tested for the following:
-
-* [Pytorch>=1.7.1](https://pytorch.org/get-started/locally/) 
-* Python >=3.7.0
-
 ## Installation
 
 To install the dependencies please follow the next steps:
@@ -76,10 +67,6 @@ To install the dependencies please follow the next steps:
     git clone https://github.com/Kakanat/SyncViolinist.git
     cd SyncViolinist
     ```
-- Install the dependencies by the following commands:
-    ```
-    pip install -r requirements.txt
-    ```
 
 ## Getting started
 
@@ -88,8 +75,8 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 #### SyncViolinst Dataset and models
 
 - Fill in the consent form from [here](https://).
-- Download the main dataset from [here](https://). After decompressing, it will include ...
-- Store files under `SyncViolinst/data/`.
+- Download the dataset and the pre-trained model from [here](https://).
+- Store the files under `dataset/` to under `SyncViolinst/data/`.
 - The final structure of data should look as below:
 ```bash
     SyncViolinst
@@ -105,7 +92,7 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 ```
 
 #### Pre-trained Checkpoints
-- Download the Pre-trained checkpoints (`last.ckpt`) from [here](https://).
+- You can download the pre-trained model from the dataset.
 - Place the pre-trained models in `SyncViolinst/models` as follows:
 ```bash
     models
@@ -123,7 +110,7 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
         ├── best.pth
         └── config.yaml
 ```
-## Environment
+## Environment and Installation
 We use the docker container. Please use the Dockerfile to set the implement environment.
 ```
 docker build -t {image name} .
