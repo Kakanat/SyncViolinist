@@ -19,7 +19,7 @@
   <!-- Upload the teaser image to the /images for it show.Update authors' homepages if necessary. -->
 
   <a href="">
-    <img src="./images/teaser.pdf" alt="Teaser" width="100%"> 
+    <img src="./images/teaser.png" alt="Teaser" width="100%"> 
     <!-- Upload the teaser image to the /images for it show. -->
   </a>
 
