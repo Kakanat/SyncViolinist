@@ -138,7 +138,7 @@ docker run -it --gpus [GPU number] -v $(pwd):/workstation -p 8000:8000 --name {c
 
 After installing the dependencies and downloading the data and the models, you should be able to run the following examples:
 ```                                     
-    bash evaluation.sh
+bash evaluation.sh
 ```
 The results are saved under "./results/{model name}/"
 
