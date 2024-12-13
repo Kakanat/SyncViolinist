@@ -118,15 +118,15 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 ```bash
     models
     ├── A2BD
-        ├── best.pth
-        └── config.yaml
+    │   ├── best.pth
+    │   └── config.yaml
     ├── hiroki
-        ├──
-        ...
-        └──
+    │   ├──
+    │   ...
+    │   └──
     ├── TGM2B
-        ├── best.pth
-        └── config.yaml
+    │   ├── best.pth
+    │   └── config.yaml
     └── TVCG
         ├── best.pth
         └── config.yaml
