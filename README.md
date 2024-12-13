@@ -71,7 +71,7 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 
 #### SyncViolinst Dataset and models
 
-- Contact [phys.keitaro1227@ruri.waseda.jp](mailto:phys.keitaro1227@ruri.waseda.jp) and obtain the dataset and the pre-trained model.
+- Contact [phys.keitaro1227@ruri.waseda.jp](mailto:phys.keitaro1227@ruri.waseda.jp) to request access to the dataset and the pre-trained model.
 - Store the files under `dataset/` to under `SyncViolinst/data/`.
 - The final structure of data should look as below:
 ```bash
