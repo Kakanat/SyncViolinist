@@ -80,14 +80,35 @@ In order to run SyncViolinst, download the dataset and create a `data/` director
 - The final structure of data should look as below:
 ```bash
     SyncViolinst
-    ├── data
-    │   ├── aud
-    │   ├── joint_aligned
-    │   ├── keyps_norm_hiroki_ver_6ch
-    │   ├── mfcc
-    │   ├── pp_one_hot
-    │   ├── skl_hiroki_ver
-    │   └── wav_normalized
+    └── data
+        ├── aud
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        ├── joint_aligned
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        ├── keyps_norm_hiroki_ver_6ch
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        ├── mfcc
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        ├── pp_one_hot
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        ├── skl_hiroki_ver
+        │    ├── test
+        │    ├── train
+        │    └── validation
+        └── wav_normalized
+             ├── test
+             ├── train
+             └── validation
 
 ```
 
