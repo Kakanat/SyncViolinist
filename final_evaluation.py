@@ -197,7 +197,8 @@ def main():
     today = datetime.date.today()
     seed_everything()
     args = create_options()
-    
+    if not os.path.exists("results"):
+        os.mkdir("results")
     metrics_dict = METRICS
     config = {}
     wav_dir = './data/wav_normalized/'
