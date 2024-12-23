@@ -448,7 +448,7 @@ def main():
                 metrics_dict[k].append(met[k])    
             
             videofile = os.path.join(out_dir, Path(i).stem + '.mp4')
-            videofile_gt = os.path.join(out_dir , 'gt' , Path(i).stem + '.mp4')
+            videofile_gt = os.path.join(out_dir , 'gt_' + Path(i).stem + '.mp4')
             print(videofile)
             if args.visualize:
                 pred = pred.to('cpu').detach().numpy().copy()
